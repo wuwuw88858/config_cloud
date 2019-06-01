@@ -13,5 +13,5 @@ spring:
     name: product-service
 
 
-dev:dev
+env:dev
 branch:master
