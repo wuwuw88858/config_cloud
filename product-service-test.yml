@@ -1,5 +1,5 @@
 server:
-  port: 8773
+  port: 8774
 
 #注册中心地址注册自己
 eureka:
