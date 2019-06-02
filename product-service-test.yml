@@ -13,5 +13,5 @@ server:
 #     name: product-service
 
 
-env: test
-branch: test
+env: my-test-2019-06-02
+branch: my-test-2019-06-02
