@@ -1,10 +1,9 @@
-#1
+
 server:
   port: 8771
 spring:
  application:
    name: my-eureka-product
-#像注册中心注册自己
 eureka:
   client:
     service-url:
